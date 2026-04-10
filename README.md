@@ -1,5 +1,19 @@
 # Intrinsic Mortality PoC
 
+## Motivation
+
+Current AI safety approaches focus primarily on controlling behavior and external constraints.
+
+This project explores a different hypothesis:
+
+> The core risk may not be what a model does, but how long it can continue to do it.
+
+Modern AI systems can, in principle, operate indefinitely, accumulate influence, and persist across environments.
+
+This repository investigates a minimal alternative paradigm:
+
+**intrinsic mortality** — embedding a lifecycle constraint directly into the model itself.
+
 Minimal proof of concept for "intrinsic mortality" in a small neural network.
 
 The repository contains two iterations:
