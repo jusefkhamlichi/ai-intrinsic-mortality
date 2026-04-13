@@ -48,7 +48,7 @@ The project shows that intrinsic mortality can be made endogenous at the model-i
 
 Paper archived on Zenodo:
 
-Jusef Khamlichi (2026). *Toward Meaningful Mortality in AI Systems: Intrinsic Degradation, Identity, and Succession*. Zenodo. https://doi.org/10.5281/zenodo.19555830
+Jusef Khamlichi (2026). *Toward Meaningful Mortality in AI Systems: Intrinsic Degradation, Identity, and Succession*. Zenodo. https://doi.org/10.5281/zenodo.19556905
 
 ## Related paper files
 
