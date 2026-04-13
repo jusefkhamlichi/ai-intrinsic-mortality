@@ -1,0 +1,22 @@
+﻿cff-version: 1.2.0
+message: "If you use this repository, please cite the paper archived on Zenodo."
+title: "Meaningful AI Mortality"
+authors:
+  - family-names: "Khamlichi"
+    given-names: "Jusef"
+    orcid: "https://orcid.org/0009-0006-3014-4568"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19555830"
+repository-code: "https://github.com/jusefkhamlichi/ai-intrinsic-mortality"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Khamlichi"
+      given-names: "Jusef"
+      orcid: "https://orcid.org/0009-0006-3014-4568"
+  title: "Toward Meaningful Mortality in AI Systems: Intrinsic Degradation, Identity, and Succession"
+  year: 2026
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.19555830"
+  url: "https://doi.org/10.5281/zenodo.19555830"
